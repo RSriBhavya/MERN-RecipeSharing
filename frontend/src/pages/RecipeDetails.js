@@ -10,7 +10,7 @@ const RecipeDetails = () => {
     useEffect(() => {
         const fetchRecipe = async () => {
             try {
-                const response = await axios.get(`http://localhost:5000/api/recipes/${id}`);
+                const response = await axios.get(`https://mern-recipesharing.onrender.com/api/recipes/${id}`);
                 setRecipe(response.data);
             } catch (err) {
                 setError('Failed to fetch recipe details.');

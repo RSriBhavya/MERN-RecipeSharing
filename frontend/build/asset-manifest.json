@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Recipes/static/css/main.66a3c72f.css",
+    "main.js": "/Recipes/static/js/main.155d99d8.js",
+    "static/media/bg1.png": "/Recipes/static/media/bg1.0141c7319d1e9e18c314.png",
+    "index.html": "/Recipes/index.html",
+    "main.66a3c72f.css.map": "/Recipes/static/css/main.66a3c72f.css.map",
+    "main.155d99d8.js.map": "/Recipes/static/js/main.155d99d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a3c72f.css",
+    "static/js/main.155d99d8.js"
+  ]
+}
